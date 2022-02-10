@@ -35,7 +35,9 @@ Abaixo segue o que foi utilizado na criação deste projeto:
 
 
 ###  API
-- [x] Get all users;
-- [x] Insert users informations;
+- [x] Iniciando cotação;
+- [x] Buscar cotações;
+- [x] buscar cotaçao por id;
+- [x] Deletar cotação pelo id;
   
 <a href="#top">Voltar para o topo</a>
