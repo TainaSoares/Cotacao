@@ -1,12 +1,11 @@
 <!-- PROJECT TITLE -->
-<h1 align='center'id="top">  == CUBO Back-End ==  </h1>
+<h1 align='center'id="top">  == Cotação Back-End ==  </h1>
 
 
 <!-- PROJECT MENU -->
 <p align="center">
   <a href="#sobre">Sobre</a> &#xa0; | &#xa0; 
   <a href="#api">API</a> &#xa0; | &#xa0;
-  <a href="#front">FRONT-END</a> &#xa0; | &#xa0;
   <a href="#tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#funciona">Funcionalidades</a> &#xa0; | &#xa0;  
 </p>
@@ -15,7 +14,7 @@
 
 <!-- PROJECT SOBRE -->
 <h2 id="sobre">:notebook: Sobre </h2>
-<p align="justify">Projeto CUBO desenvolvido em TypeScript, para atender o front que possui um formulário, uma tabela com informações percentuais de participação e um gráfico de pizza que representa essa distribuição.</p>
+<p align="justify">Projeto Cotação desenvolvido em TypeScript, utiliza uma API externa para fazer a conversão do real em dólar e vice-versa em tempo real.</p>
 
 
 <!-- PROJECT POSTMAN -->
